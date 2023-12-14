@@ -1,0 +1,66 @@
+body {
+    background-color:lightcyan
+}
+
+.center {
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h1,h4{
+    font-family: monospace;
+    font-style: oblique;
+}
+
+p {
+    font-family: monospace;
+    
+    font-style: oblique;
+}
+
+.margined {
+
+    margin: 50px;
+    margin-bottom: 100px;
+}
+
+
+
+.firstgen, 
+.secondgen,
+.fourthgen,
+.sixthgen
+{
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 150px;
+    
+}
+
+.firstgen img, .secondgen img, .fourthgen img, .sixthgen img{
+    height: 150px;
+    width: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.vaporeon, .jolteon, .flareon, .espeon, .umbreon, .leafeon, .glaceon, .sylveon {
+    display: inline-block;
+}
+
+.leafeon{
+    margin-right:250px ;
+}
+
+.end {
+    text-align: center;
+}
+
+/** {
+    border: 2px solid red;
+  }*/
